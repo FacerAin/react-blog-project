@@ -1,0 +1,31 @@
+{
+  "devDependencies": {
+    "eslint": "^6.6.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-flowtype": "^4.4.1",
+    "eslint-plugin-html": "^6.0.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-react": "^7.16.0",
+    "eslint-plugin-react-hooks": "^2.3.0"
+  },
+  "name": "react-blog-project",
+  "description": "React Project for Practice, refer to https://github.com/velopert/learning-react",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FacerAin/react-blog-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FacerAin/react-blog-project/issues"
+  },
+  "homepage": "https://github.com/FacerAin/react-blog-project#readme",
+  "keywords": []
+}
